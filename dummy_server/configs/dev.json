@@ -1,0 +1,5 @@
+{
+    "project_name": "Dummy Server",
+    "service": "dummy-server",
+    "api_version": "api/v1"
+}
