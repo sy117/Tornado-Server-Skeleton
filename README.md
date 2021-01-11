@@ -31,12 +31,7 @@ by setting development environment:
 ```
  git clone https://github.com/sy117/Tornado-Server-Skeleton.git
 ```
-- Checkout to develop branch
 
-```
- git checkout develop
-
-```
 
 Run application inside container using docker
 
